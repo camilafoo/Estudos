@@ -1,3 +1,21 @@
 body{
     margin: 0%;
+    padding: 0%;
+}
+.topo{
+    height: 50px;
+    background-color: #353535;
+}
+.topoint{
+    width: 1000px;
+    margin: auto;
+    color: aliceblue;
+}
+.logomarca{
+    float: left;
+    font-size: 24px;
+    line-height: 50px;
+}
+.menu{
+    float: right;
 }
