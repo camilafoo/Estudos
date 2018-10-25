@@ -74,3 +74,26 @@ background-color: #3480c1;
     cursor: pointer;
     border-radius: 5px;
 }
+.conteudoint{
+    width: 1300px;
+    margin: auto;
+}
+.outrosprodutos{
+    height: 90px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 90px;
+}
+.fotos img{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.rodape{
+    background-color: #347aba; 
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: #ffffff;
+    font-size: 25px;
+    margin-top: 40px;
+}
