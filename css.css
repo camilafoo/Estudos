@@ -47,3 +47,19 @@ background-color: #3480c1;
     width: 1000px;
     margin: auto;
 }
+.banneresquerda{
+    float: left;
+}
+.bannerdireita{
+    float: right;
+}
+.frase1{
+    font-size: 30px;
+    color: #ffffff;
+    margin-top: 60px;
+}
+.frase2{
+    font-size: 20px;
+    color: #ffffff;
+    
+}
