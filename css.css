@@ -39,3 +39,11 @@ body{
 .menu li:hover{
 background-color: #3480c1;
 }
+.banner{
+    height: 300px;
+    background-color: #347aba;
+}
+.bannerint{
+    width: 1000px;
+    margin: auto;
+}
